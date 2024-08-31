@@ -1,3 +1,6 @@
+![image gallery](https://github.com/user-attachments/assets/e175426e-f6b3-4f40-bd18-44abd1ad94c7)
+
+
 # Image Gallery with Hover Effects
 
 This repository contains the source code for an image gallery created using HTML and CSS. The gallery features image thumbnails with opacity effects applied on hover.
